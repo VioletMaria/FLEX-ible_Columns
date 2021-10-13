@@ -1,25 +1,26 @@
 .row {
     display: flex;
     justify-content: space-between;
+    color: white;
 }
 
 .col {
     flex: 1;
     padding: 20px;
     margin: 10px;
-    background-color: aqua;
+    background-color: rgb(27, 105, 221);
 }
 
 .col-2 {
     flex: 2;
     padding: 20px;
     margin: 10px;
-    background-color: aqua;
+    background-color: rgb(27, 105, 221);
 }
 
 .col-3 {
     flex: 3;
     padding: 20px;
     margin: 10px;
-    background-color: aqua;
+    background-color: rgb(27, 105, 221);
 }
